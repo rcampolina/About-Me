@@ -1,16 +1,22 @@
-### Hi there 👋
+Hi, I'm Rafael Campolina.
 
-<!--
-**rcampolina/rcampolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
+I am a fullsatck programmer, specialist in backend with node.js and I am in an increasing evolution. I currently, have one year of experience with react, react native and, mainly, node. I have knowledge in SQLServer, Oracle, mysql and mongodb.
 
-Here are some ideas to get you started:
+Skills: 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Node.js
+React
+Angular
+JavaScript
+TypeScript
+HTML5
+CSS3
+SQL (SQLServer, Oracle, MySQL)
+NoSQL (MongoDB)
+Bootstrap
+Angular Material
+
+Social networks:
+LinkedIn: https://www.linkedin.com/in/rafaelcampolina/
+Instagram: http://instagram.com/faelcampolina/
